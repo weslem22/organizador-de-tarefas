@@ -10,7 +10,7 @@
     body{
     background-color:var(--cor-de-fundo);
     color: var(--branco);
-    font-family: `Chakra Petch`, sans-serif;
+    font-family: "Chakra Petch", sans-serif;
     }
     
     .conteudo-principal{
@@ -24,7 +24,7 @@
     }
 
 .titulo-principal{
-text-align: left;
+text-align: center;
 width: 100%;
 font-size: 32px;
 }
